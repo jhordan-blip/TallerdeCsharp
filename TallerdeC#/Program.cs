@@ -35,7 +35,7 @@ namespace TallerdeC_
             Console.WriteLine($"El producto de {a} * {b} = {producto}");
 
             Console.WriteLine();
-            Console.WriteLine("Algoritmo Area Triangulo");
+            Console.WriteLine("Algoritmo Area Triangulo"); 
 
             Ejemplo ej1 = new Ejemplo();
             ej1.areatriangulo();
